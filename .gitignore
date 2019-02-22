@@ -2,7 +2,4 @@
 *.pyc
 __pycache__/
 db.sqlite3
-<<<<<<< HEAD
 /static
-=======
->>>>>>> origin/master
